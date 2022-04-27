@@ -1,0 +1,14 @@
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\bin\Debug\netcoreapp3.1\projetoPiramide.exe
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\bin\Debug\netcoreapp3.1\projetoPiramide.deps.json
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\bin\Debug\netcoreapp3.1\projetoPiramide.runtimeconfig.json
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\bin\Debug\netcoreapp3.1\projetoPiramide.runtimeconfig.dev.json
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\bin\Debug\netcoreapp3.1\projetoPiramide.dll
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\bin\Debug\netcoreapp3.1\projetoPiramide.pdb
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.csproj.AssemblyReference.cache
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.AssemblyInfoInputs.cache
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.AssemblyInfo.cs
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.csproj.CoreCompileInputs.cache
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.dll
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.pdb
+C:\repositorioleandro\projeto pirâmide\projetoPiramide\projetoPiramide\obj\Debug\netcoreapp3.1\projetoPiramide.genruntimeconfig.cache
